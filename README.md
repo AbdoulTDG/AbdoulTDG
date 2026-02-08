@@ -21,9 +21,8 @@ My academic journey has involved numerous hands-on projects across the data scie
 ## 💼 Technical Expertise
 
 ### 🏗️ Data Engineering & Analytics
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
-[![Talend](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)](https://www.talend.com/)
-[![KNIME](https://img.shields.io/badge/KNIME-0080FF?style=for-the-badge&logo=knime&logoColor=white)](https://www.knime.com/)
+[![Dataiku](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
+[![Databricks](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white)](https://www.talend.com/)
 
 ### ☁️ MLOps & Cloud Platforms
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -41,14 +40,11 @@ My academic journey has involved numerous hands-on projects across the data scie
 ## 🌐 Full-Stack Development
 
 ### Frontend Technologies
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/dash/)
 
 ### Backend & API Development
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -73,12 +69,8 @@ My academic journey has involved numerous hands-on projects across the data scie
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://www.python.org/)
 [![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)](https://www.r-project.org/)
 [![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white&style=flat)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Web Development
-[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)](https://reactjs.org/)
-[![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)](https://spring.io/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)](https://redux.js.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -91,7 +83,7 @@ My academic journey has involved numerous hands-on projects across the data scie
 
 ## 🗣️ Language Usage
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yameogo123&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoulTDG&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -104,7 +96,7 @@ My academic journey has involved numerous hands-on projects across the data scie
 ## 📫 Let's Collaborate!
 I'm always open to discussing data science, machine learning, and full-stack development projects. Feel free to explore my repositories and reach out!
 
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:yameogoivan10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome)](https://yameogo123.github.io/resume/)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:abdoulaziz.tdg@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome)](https://AbdoulTDG.github.io/resume/)
 
 *"Turning data into insights, and insights into solutions."* 🚀
