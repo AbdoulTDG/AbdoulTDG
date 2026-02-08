@@ -1,9 +1,9 @@
-# 👋 Hello, I'm Wendyam Maximilien Ivan
+# 👋 Hello, I'm Abdoul Aziz
 
 ### 🌐 Connect With Me
-- **Portfolio**: [yameogo123.github.io/resume/](https://yameogo123.github.io/resume/)
-- **Email**: yameogoivan10@gmail.com
-- **GitHub**: [github.com/Yameogo123](https://github.com/Yameogo123)
+- **Portfolio**: 
+- **Email**: abdoulaziz.tdg@gmail.com
+- **GitHub**: [github.com/AbdoulTDG](https://github.com/AbdoulTDG)
 
 ---
 
