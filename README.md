@@ -59,7 +59,7 @@ My academic journey has involved numerous hands-on projects across the data scie
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbdoulTDG&theme=dark&background=000000&border_radius=10)](https://git.io/streak-stats)
 
 ### 📊 Profile Statistics
-![Wendyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdoulTDG&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
+![Abdoul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdoulTDG&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
 
 ---
 
